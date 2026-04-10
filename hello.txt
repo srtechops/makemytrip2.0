@@ -1,3 +1,8 @@
 Welcome to DevOps training
 added second line
 adding third line
+K8s
+Jenkins
+Docker
+Python
+
